@@ -1,0 +1,15 @@
+div {
+  width: 600 px;
+  height: 340 px;
+  background-color: blueviolet;
+  border: 2px solid blue;
+  border-radius: 10px;
+  background-image: url(../img/shinchan1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+div:hover {
+  background-image: url(../img/shinchan2.png);
+  background-position: center;
+}
